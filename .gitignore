@@ -15,6 +15,13 @@ pip-delete-this-directory.txt
 python-env/
 *.log
 
+# Python virtual environment directories
+Lib/
+Scripts/
+share/
+.venv/
+venv/
+
 # Streamlit cache
 .streamlit/
 
