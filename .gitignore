@@ -1,0 +1,23 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.swp
+*.swo
+.DS_Store
+.ipynb_checkpoints/
+*.env
+.env
+.venv
+venv
+pip-log.txt
+pip-delete-this-directory.txt
+python-env/
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# IDE settings
+.vscode/
+.idea/
