@@ -18,7 +18,13 @@ It ranks matches by volume ratio and updates automatically every 10 minutes, wit
 python -m venv .venv
 .venv\Scripts\activate
 ```
+for MAC
+```
+python3 -m venv .venv
 
+source .venv/bin/activate
+
+```
 2. Install dependencies:
 
 ```bash
